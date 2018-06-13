@@ -1,7 +1,7 @@
 === Coinet.Network ===
-Contributors: ricdizio at least: 4.4
-Tested up to: 4.5
-Version: 2.11
+Contributors: ricdizio at least: 1.0
+Tested up to: 1.1
+Version: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: one-column, two-columns, left-sidebar, right-sidebar, flexible-header, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, footer-widgets, full-width-template, microformats, post-formats, sticky-post, theme-options, threaded-comments, translation-ready, blog, e-commerce
@@ -31,8 +31,6 @@ Coinet.Network includes support Jetpack, Yoast Seo, Contact Form 7, Beaver Build
 * This theme, like WordPress, is licensed under the GPL 2.0.
 * This theme was built using _s.(http://underscores.me) that is licensed under GPL license.
 * normalize.css http://necolas.github.io/normalize.css/, (C) 2012-2015 Nicolas Gallagher and Jonathan Neal, [MIT](http://opensource.org/licenses/MIT)
-* HTML5 Shiv, copyright 2018 Ricardo Di Zio licensed under the MIT/GPL2 License, source: https://github.com/aFarkas/html5shiv/
-* Respond.js, copyright 2018 Ricardo Di Zio licensed under the MIT license, source: http://j.mp/respondjs
 * SlickNav, copyright 2016 Josh Cope licensed under the MIT license, source: http://slicknav.com
 * Screenshot images are licensed under Creative Commons Deed CC0.
 
